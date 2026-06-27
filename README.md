@@ -53,13 +53,6 @@ The objective of this project is to analyze telecom customer behavior, identify 
 * Promote service bundles
 * Encourage automatic payment methods
 
-## Repository Structure
-
-├── Customer_Churn_Analysis.ipynb
-├── Customer_Churn_Analysis.pdf
-├── README.md
-└── images/
-
 ## Conclusion
 
 Logistic Regression was selected as the final model due to better recall, strong ROC–AUC performance, and easier business interpretation.
